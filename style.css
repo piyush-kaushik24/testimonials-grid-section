@@ -132,7 +132,7 @@ body {
 .testimonial .user-details {
   align-self: flex-start;
 }
-@media (min-width: 70rem) {
+@media (min-width: 68rem) {
   .page {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
