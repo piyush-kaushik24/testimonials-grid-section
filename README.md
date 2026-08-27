@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/piyush-kaushik24/testimonials-grid-section)
-- Live Site URL: [Testimonials grid section]()
+- Live Site URL: [Testimonials grid section](https://piyush-kaushik24.github.io/testimonials-grid-section/)
 
 ## My process
 
